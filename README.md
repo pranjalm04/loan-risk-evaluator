@@ -122,7 +122,7 @@ This project predicts the risk associated with loan applications using two datas
 
 ### Key Observation
 After addressing data imbalances, the Random Forest model outperforms other models, making it the best choice for deployment.
-![alt text](artifacts/model%20comparison.png)
+![alt text](https://github.com/pranjalm04/loan-risk-evaluator/blob/main/Artifacts/model%20comparison.png)
 ---
 
 ## Deployment
