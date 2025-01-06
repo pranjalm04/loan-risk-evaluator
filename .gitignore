@@ -1,0 +1,40 @@
+# Logs and temporary files
+*.log
+*.tmp
+*.out
+*.lock
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+
+# Virtual environment directories
+venv/
+.env/
+.venv/
+
+# MLflow artifacts
+mlruns/
+*.db
+
+# DVC and DagsHub-related files
+.dvc/
+.dagshub/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using Node.js/Streamlit custom components)
+node_modules/
+
+# Build and distribution files
+dist/
+build/
