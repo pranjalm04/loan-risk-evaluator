@@ -160,5 +160,5 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions or feedback, please contact:
 - **Name**: Your Name
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+- **Email**: [pranjalmestry48@gmail.com](mailto:pranjalmestry48@gmail.com)
+- **GitHub**: [https://github.com/pranjalm04](https://github.com/pranjalm04)
